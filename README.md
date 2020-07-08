@@ -1,4 +1,4 @@
-#### Today-I-Learned ^오^
+#### Today-I-Learned :)
 
 ---
 
