@@ -11,5 +11,6 @@
 
 + [07-10]
   + [자바 메모리 구조(Static, Stack, heap)](https://www.notion.so/JAVA-Static-Stack-heap-b964277b8ac14653af68ef623466cbca)
+  + [JPA 사용법](https://www.notion.so/JPA-JPA-175c14ba62064a07945fe6f75004651b)
 
 ---
