@@ -9,4 +9,7 @@
   + [[SpringBoot] Redis 연동](https://www.notion.so/SpringBoot-Redis-86e07f570d5743a0b913a5925c073a63)
   + [[Redis] 명령어 정리](https://www.notion.so/Redis-fa4906140e8743c993ab54c0f2171b5f)
 
++ [07-10]
+  + [자바 메모리 구조(Static, Stack, heap)](https://www.notion.so/JAVA-Static-Stack-heap-b964277b8ac14653af68ef623466cbca)
+
 ---
