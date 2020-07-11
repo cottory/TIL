@@ -13,4 +13,8 @@
   + [자바 메모리 구조(Static, Stack, heap)](https://www.notion.so/JAVA-Static-Stack-heap-b964277b8ac14653af68ef623466cbca)
   + [[SpringBoot]JPA 사용법](https://www.notion.so/JPA-JPA-175c14ba62064a07945fe6f75004651b)
 
++ [07-11]
+  + [@Component 어노테이션](https://www.notion.so/Component-822eaac5756c4ae8a1f929d02ee7753f)
+  + [@Resource 어노테이션](https://www.notion.so/Resource-aa324d98527a421483cda96a258f32cc)
+
 ---
