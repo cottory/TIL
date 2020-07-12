@@ -22,5 +22,6 @@
   + [[Java] UUID 클래스로 key값 생성하기](https://www.notion.so/Java-UUID-key-db59b8894015448d83d433b9bc8c0505)
   + [[Java] UUID 클래스로 단축URL 만들기](https://www.notion.so/JAVA-UUID-URL-da5ec209b6694ae6b4559a2fbb5861a7)
   + [TestCode 작성하는 법(with intelliJ)](https://www.notion.so/TestCode-with-intelliJ-5686a7deed9e45579a3187b04b60ad89)
+  + [@SpringBootTest 어노테이션](https://www.notion.so/SpringBootTest-88bfc38b2d684091812b0fa5380ec77a)
 
 ---
