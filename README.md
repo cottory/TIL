@@ -17,4 +17,7 @@
   + [@Component 어노테이션](https://www.notion.so/Component-822eaac5756c4ae8a1f929d02ee7753f)
   + [@Resource 어노테이션](https://www.notion.so/Resource-aa324d98527a421483cda96a258f32cc)
 
++ [07-12]
+  + [[Redis] 사용 명령어](https://www.notion.so/Redis-41f2f693ec0c455db62cb2ee409bf6df)
+
 ---
