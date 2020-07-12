@@ -19,5 +19,6 @@
 
 + [07-12]
   + [[Redis] 사용 명령어](https://www.notion.so/Redis-41f2f693ec0c455db62cb2ee409bf6df)
+  + [[Java] UUID 클래스로 key값 생성하기](https://www.notion.so/Java-UUID-key-db59b8894015448d83d433b9bc8c0505)
 
 ---
