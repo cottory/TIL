@@ -24,4 +24,8 @@
   + [TestCode 작성하는 법(with intelliJ)](https://www.notion.so/TestCode-with-intelliJ-5686a7deed9e45579a3187b04b60ad89)
   + [@SpringBootTest 어노테이션](https://www.notion.so/SpringBootTest-88bfc38b2d684091812b0fa5380ec77a)
 
++ [07-13]
+  + [[Java] CompletableFuture](https://www.notion.so/Java-CompletableFuture-7d884e622183499caf6441d94e12d3d8)
+  + [[Java] CompletableFuture Function Chaining](https://www.notion.so/Java-CompletableFuture-Function-Chaining-9e120247a8554c43b72ddcda90345f59)
+
 ---
