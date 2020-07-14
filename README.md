@@ -32,6 +32,6 @@
   + [빌더 패턴(Builder Pattern)](https://www.notion.so/Builder-Pattern-3a724ae3914b4007a93673cfa3371796)
   + [@Builder 어노테이션](https://www.notion.so/builder-3f65205283de44dab533af5a5b3cb7e8)
   + [@RequestBody 어노테이션](https://www.notion.so/RequestBody-ef06a5c7aa4b456580f77f72ff8f631b)
-  
+  + [Deserialize Immutable Objects](https://www.notion.so/Deserialize-Immutable-Objects-with-Jackson-750b8306a8c64efbb3f875dcc9846c9c)
   
 ---
