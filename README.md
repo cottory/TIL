@@ -28,4 +28,6 @@
   + [[Java] CompletableFuture](https://www.notion.so/Java-CompletableFuture-7d884e622183499caf6441d94e12d3d8)
   + [[Java] CompletableFuture Function Chaining](https://www.notion.so/Java-CompletableFuture-Function-Chaining-9e120247a8554c43b72ddcda90345f59)
 
++ [07-14]
+  + [빌더 패턴(Builder Pattern)](https://www.notion.so/Builder-Pattern-3a724ae3914b4007a93673cfa3371796)
 ---
