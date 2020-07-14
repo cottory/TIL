@@ -30,6 +30,6 @@
 
 + [07-14]
   + [빌더 패턴(Builder Pattern)](https://www.notion.so/Builder-Pattern-3a724ae3914b4007a93673cfa3371796)
-  + [@RequestBody](https://www.notion.so/RequestBody-ef06a5c7aa4b456580f77f72ff8f631b)
+  + [@RequestBody 어노테이션](https://www.notion.so/RequestBody-ef06a5c7aa4b456580f77f72ff8f631b)
   
 ---
