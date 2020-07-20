@@ -34,4 +34,9 @@
   + [@RequestBody 어노테이션](https://www.notion.so/RequestBody-ef06a5c7aa4b456580f77f72ff8f631b)
   + [Deserialize Immutable Objects](https://www.notion.so/Deserialize-Immutable-Objects-with-Jackson-750b8306a8c64efbb3f875dcc9846c9c)
   
+  
++ [07-20]
+  + [[Java] try with resources](https://www.notion.so/Java-try-with-resources-e76ff050d0834b4a84e7484be7e38d36)
+  + [[Java] Lamda Expression](https://www.notion.so/Java-Lamda-Expression-d6a746de8b7e46878b727402b7c6ead5)
+  + [[Java] Thread Pool (Executors, ExecutorService 이용)](https://www.notion.so/Java-Thread-Pool-Executors-ExecutorService-c2796443098946dc86da9b4aff6caa79)
 ---
