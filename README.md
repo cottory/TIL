@@ -42,5 +42,8 @@
   
 + [07-21]
   + [[Java] 예외처리(Feat. try-catch vs throws)](https://www.notion.so/Java-Feat-try-catch-vs-throws-af0a5d7720dd41f881dcce4fb971c7d7)
+  
++ [07-22]
+  + [[Java] Logback](https://www.notion.so/Java-Logback-9c8a3d42531942ce9254401015094bcd)
 
 ---
