@@ -45,5 +45,8 @@
   
 + [07-22]
   + [[Java] Logback](https://www.notion.so/Java-Logback-9c8a3d42531942ce9254401015094bcd)
+  
++ [07-24]
+  + [[Java] 접근제어자](https://www.notion.so/Java-a0cff416974f4f95b17aae01233d07b7)
 
 ---
