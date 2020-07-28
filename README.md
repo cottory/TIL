@@ -53,5 +53,5 @@
   + [함수형 프로그래밍](https://www.notion.so/9cbccb1b95dc4135a101991ae701f632)
   + [일급 객체(VPR)](https://www.notion.so/VPR-f030006af3a449a9b30bb219860dc117)
   + [Immutable Object](https://www.notion.so/Java-Immutable-Object-9ae3e4fec8324c77abaffafcada8f295)
-  + [방어 복사](https://www.notion.so/b6449a4bb6a44070bf96dbdf1f72c1bb)
+  + [방어 복사](https://www.notion.so/Java-b6449a4bb6a44070bf96dbdf1f72c1bb)
 ---
