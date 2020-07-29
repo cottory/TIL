@@ -54,4 +54,8 @@
   + [일급 객체(VPR)](https://www.notion.so/VPR-f030006af3a449a9b30bb219860dc117)
   + [Immutable Object](https://www.notion.so/Java-Immutable-Object-9ae3e4fec8324c77abaffafcada8f295)
   + [방어 복사](https://www.notion.so/Java-b6449a4bb6a44070bf96dbdf1f72c1bb)
+  
++ [07-29]
+  + [[Java] Java 클래스 로딩 과정](https://www.notion.so/Java-Java-b434010a0682425ab77ce7eebd217a55)
+ 
 ---
