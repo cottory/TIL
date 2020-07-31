@@ -60,4 +60,8 @@
  
 + [07-30]
   + [Gson Library](https://www.notion.so/Gson-8f46d1188f6b4f728ec3ffadaa176904)
+  
++ [07-31]
+  + [[Java] private 생성자](https://www.notion.so/Java-private-9145802e32c84114b2ae87f51bf8e923)
+  
 ---
