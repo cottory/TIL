@@ -64,6 +64,7 @@
 + [07-31]
   + [[Java] private 생성자](https://www.notion.so/Java-private-9145802e32c84114b2ae87f51bf8e923)
   + [[Java] try-catch-finally 구문에서의 return (finally에서의 반환)](https://www.notion.so/Java-try-catch-finally-return-finally-9ead106dd91246848c3b77b52942dd89)
+  + [[Java] final 키워드를 사용하는 경우](https://www.notion.so/Java-final-2e3010ef862a4706862dc5b32b3f5b85)
 
   
 ---
