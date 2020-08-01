@@ -69,5 +69,6 @@
 * [08-01]
   * [자바 프로그램 구동원리(feat. Hello World)](https://www.notion.so/hello-world-f76e77404d5d4cda8a441342f3e8ae40)
   * [[Java] 자바 가상 머신(JVM)과 자바의 메모리 영역](https://www.notion.so/Java-JVM-319c48ae38534eb5bd04b00a6cdc8aa5)
-  
+  * [[Java] 데이터 타입](https://www.notion.so/Java-8cedd164eceb4bd8be2485961441451b)
+
 ---
