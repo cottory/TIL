@@ -71,4 +71,8 @@
   * [[Java] 자바 가상 머신(JVM)과 자바의 메모리 영역](https://www.notion.so/Java-JVM-319c48ae38534eb5bd04b00a6cdc8aa5)
   * [[Java] 데이터 타입](https://www.notion.so/Java-8cedd164eceb4bd8be2485961441451b)
 
+* [08-07]
+  * [JPA 사용법(Renewal)](https://www.notion.so/NES-JPA-175c14ba62064a07945fe6f75004651b)
+  * [@Builder 적용방법(Renewal)](https://www.notion.so/NES-Builder-3f65205283de44dab533af5a5b3cb7e8)
+
 ---
