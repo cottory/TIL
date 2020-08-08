@@ -75,4 +75,7 @@
   * [JPA 사용법(Renewal)](https://www.notion.so/NES-JPA-175c14ba62064a07945fe6f75004651b)
   * [@Builder 적용방법(Renewal)](https://www.notion.so/NES-Builder-3f65205283de44dab533af5a5b3cb7e8)
 
+* [08-09]
+  * [Storage Layer(JPA) Test 방법](https://www.notion.so/Storage-Layer-JPA-Test-c70c5599ed954cdf9a2d13656589f1a5)
+
 ---
