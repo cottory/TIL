@@ -78,4 +78,8 @@
 * [08-09]
   * [Storage Layer(JPA) TestCode 작성](https://www.notion.so/Storage-Layer-JPA-Test-c70c5599ed954cdf9a2d13656589f1a5)
 
+* [08-13]
+  * [[Java] static ](https://www.notion.so/Java-static-562604b40e774743875560f073521b30)
+  * [[Java] inner Class](https://www.notion.so/Java-inner-Class-4f8b4dacb68b4465ada84d461ef90e4a)
+
 ---
