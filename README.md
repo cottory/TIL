@@ -81,5 +81,8 @@
 * [08-13]
   * [[Java] static ](https://www.notion.so/Java-static-562604b40e774743875560f073521b30)
   * [[Java] inner Class](https://www.notion.so/Java-inner-Class-4f8b4dacb68b4465ada84d461ef90e4a)
+  
+* [08-14]
+  * [Oauth_Kakao](https://www.notion.so/Oauth_Kakao-9b05a84a75634d078d9e3110648199cf)
 
 ---
