@@ -87,6 +87,7 @@
 
 * [08-19]
   * [쿠키와 세션](https://www.notion.so/a93b6b380d264e8d9840fc448ac3e2bd)
+  * [Foreign Key 사용 시 JPA에 반영하는 방법](https://www.notion.so/Foreign-Key-JPA-74e6e605b0924ea99091d5d77a44077a)
 
 
 ---
