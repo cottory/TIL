@@ -85,4 +85,8 @@
 * [08-14]
   * [Oauth_Kakao](https://www.notion.so/Oauth_Kakao-9b05a84a75634d078d9e3110648199cf)
 
+* [08-19]
+  * [쿠키와 세션](https://www.notion.so/a93b6b380d264e8d9840fc448ac3e2bd)
+
+
 ---
