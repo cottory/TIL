@@ -89,5 +89,14 @@
   * [쿠키와 세션](https://www.notion.so/a93b6b380d264e8d9840fc448ac3e2bd)
   * [Foreign Key 사용 시 JPA에 반영하는 방법](https://www.notion.so/Foreign-Key-JPA-74e6e605b0924ea99091d5d77a44077a)
 
+* [08-20]
+  * [1. Node](https://www.notion.so/1-Node-700d7028a8b347b2ab9d637b826c44d4)
+  * [2. Host](https://www.notion.so/2-Host-f265f74ce2d24bb8bea8364d557eb058)
+  * [3. Node VS Host](https://www.notion.so/3-Node-VS-Host-78210a562a0e4828a74ee42d60c2936c)
+  * [4. Server (feat. vs Host)](https://www.notion.so/4-Server-feat-vs-Host-ae3da7a2b16a469dac371779982c2aef)
+  * [5. Client](https://www.notion.so/5-Client-5af109152e47441f9161b50e60a3def6)
+  * [6. "네트워크에 연결됐다"의 의미](https://www.notion.so/6-9b95d6813706420da0a90d8c2ad698fc)
+  * [7. Packet](https://www.notion.so/7-Packet-4b87ba2599384b228bcef1b9bf98befa)
+  * [IP Address](https://www.notion.so/IP-Address-32923010e317455ea5fffb706f189896)
 
 ---
